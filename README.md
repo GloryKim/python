@@ -7,3 +7,5 @@
 240330_1613_glory : KETI AI융합가전연구센터 배포용 jupyter notebook project (개, 고양이 분류용 AI 코드)
 
 240402_0949_glory : jupyter notebook project 및 python project 배포 방식 변경
+
+240417_1740_glory : lwir 이미지 전용 이미지 분류 코드 (resnet18)
