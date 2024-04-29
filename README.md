@@ -11,3 +11,5 @@
 240417_1740_glory : lwir 이미지 전용 이미지 분류 코드 (resnet18)
 
 240429_1945_glory : 컨테이너로 말아진 staf 플라스크 서버로 localhost(node)와 파일 송수신 하는 방법
+
+240429_1949_glory : 컨테이너로 말아진 smpl 플라스크 서버로 localhost(node)와 파일 송수신 하는 방법
