@@ -9,3 +9,5 @@
 240402_0949_glory : jupyter notebook project 및 python project 배포 방식 변경
 
 240417_1740_glory : lwir 이미지 전용 이미지 분류 코드 (resnet18)
+
+240429_1945_glory : 컨테이너로 말아진 staf 플라스크 서버로 localhost(node)와 파일 송수신 하는 방법
