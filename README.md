@@ -13,3 +13,5 @@
 240429_1945_glory : 컨테이너로 말아진 staf 플라스크 서버로 localhost(node)와 파일 송수신 하는 방법
 
 240429_1949_glory : 컨테이너로 말아진 smpl 플라스크 서버로 localhost(node)와 파일 송수신 하는 방법
+
+240430_1457_glory : glb 파일을 fbx로 변환하기 위해서 blender를 활용한 방법 (단, 색상정보가 불러와지지는 않음)
